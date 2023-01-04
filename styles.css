@@ -1,0 +1,39 @@
+* {
+    font-family: monospace;
+}
+h1 {
+    color: white;
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+    display: inline-block;
+    list-style-type: none;
+}
+table,th,td {
+    display: center;
+    border: 1px solid white;
+    background-color: darkslategray;
+    color: white;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ th {
+    font-weight: bold;
+    background-color: darkkhaki;
+}
+
+#head {
+    font-weight: bold;
+    background-color: darkkhaki;
+    font-size: 20px;
+}
